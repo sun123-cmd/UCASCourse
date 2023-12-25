@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="" dir="" class="Mrphs-html">
+    <head>
+        <meta charset="utf-8">
+        <title>登录 - Course</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">        
+		<link href="/library/skin/morpheus-default/tool.css" type="text/css" rel="stylesheet" media="all" />
+		<script src="/library/skin/morpheus-default/js/lib/modernizr.js"></script>
+    </head>
+    <body class="portalBody Mrphs-portalBody">
+    <script type="text/javascript">
+    top.window.location="https://sep.ucas.ac.cn/appStore";
+    </script>
+    </body>
+</html>
