@@ -2,7 +2,7 @@
 硕士课程-计算机体系结构方向
 
 
-一键评教脚本使用：
+AutoCourse.js一键评教脚本使用：
 1. Right click on the bookmarks bar
 2. Click "Add Page"
 3. Set "name: as "run" and paste code at "address"
