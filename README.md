@@ -4,8 +4,7 @@
 若侵权请联系repo作者：sunwh1021@gmail.com
 
 AutoCourse.js一键评教脚本使用：
-1. Right click on the bookmarks bar
-2. Click "Add Page"
-3. Set "name: as "run" and paste code at "address"
-4. Save the bookmark
-5. Click the "run" bookmark on the course evaluation website
+1.右键点击chrome浏览器的书签栏
+2.选择“添加网页”
+3.“名称”写为run，“网址”粘入代码，点击保存
+4. 在评课评教页面上点击收藏夹的”run”，即可完成
