@@ -13,3 +13,7 @@
 3.“名称”写为run，“网址”粘入代码，点击保存
 
 4.在评课评教页面上点击收藏夹的”run”，即可完成
+
+****
+## 友情链接
+[选课互助](https://yvk0kswi98s.feishu.cn/base/OqbGb2HTMamiDgsCOUrcOFKOnjc?table=tblIcxGxGIsOrDC3&view=vewhKZpW6g)
